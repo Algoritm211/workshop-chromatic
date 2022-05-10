@@ -1,3 +1,5 @@
+import './setup.css'
+
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
   controls: {
